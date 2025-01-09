@@ -5,14 +5,13 @@ This is an E-Commerce web application built as a learning project. It helps user
 ## Features
 - Browse product categories
 - Add/remove products from the cart
-- Responsive design for all screen sizes
 - State management using React and Redux
 
 ## Technologies Used
-- React.js
+- React.js (functions and class methods both are used)
 - Redux
 - Axios
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Material UI
 
 ## Getting Started
 ### Prerequisites
