@@ -1,4 +1,5 @@
 # E-Commerce Web for Learning
+permalink: /index.html
 
 This is an E-Commerce web application built as a learning project. It helps users browse products, add them to their cart, and proceed to checkout.
 
