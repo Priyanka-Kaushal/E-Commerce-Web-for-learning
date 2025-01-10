@@ -1,9 +1,6 @@
 import Boy1 from "../images/Boy1.jpg";
 import Boy2 from "../images/Boy2.jpg";
 
-
-
-
 const BoysCollection = [
     [
         {
